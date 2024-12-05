@@ -12,6 +12,6 @@ Welcome to my GitHub! I’m Aiman Akim, passionate about UI/UX design, data anal
 - Data-driven web applications
 - Comprehensive data analytics solutions
   
-📫 Let’s connect! Find me on LinkedIn: ##Aiman Akim
+📫 Let’s connect! Find me on LinkedIn: Aiman Akim
 
 
