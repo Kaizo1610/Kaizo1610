@@ -2,6 +2,7 @@
 Welcome to my GitHub! I’m Aiman Akim, passionate about UI/UX design, data analytics, and web development.
 
 👀 I love creating efficient systems that transform data into actionable insights and building seamless, user-friendly web experiences.
+
 🌱 I’m currently enhancing my skills in:
 - SQL optimization
 - ETL processes
