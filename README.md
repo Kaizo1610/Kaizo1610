@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there👋
+Welcome to my GitHub! I’m Aiman Akim, passionate about UI/UX design, data analytics, and web development.
 
-<!--
-**Kaizo1610/Kaizo1610** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I love creating efficient systems that transform data into actionable insights and building seamless, user-friendly web experiences.
+🌱 I’m currently enhancing my skills in:
+- SQL optimization
+- ETL processes
+- Advanced data visualization using tools like Power BI and Tableau
 
-Here are some ideas to get you started:
+📍 I’m looking to collaborate on projects related to:
+- Database management systems
+- Data-driven web applications
+- Comprehensive data analytics solutions
+  
+📫 Let’s connect! Find me on LinkedIn: ##Aiman Akim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
