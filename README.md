@@ -4,6 +4,7 @@ Welcome to my GitHub! I’m Aiman Akim, passionate about UI/UX design, data anal
 👀 I love creating efficient systems that transform data into actionable insights and building seamless, user-friendly web experiences.
 
 🌱 I’m currently enhancing my skills in:
+- Java, React Native, Flutter, Laravel and Python to enhance my programming toolkit.
 - Building seamless, user-friendly web applications with modern frameworks.
 - Developing data-driven solutions to solve real-world problems.
 - Designing intuitive UI/UX experiences that users love.
