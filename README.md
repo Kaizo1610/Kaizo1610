@@ -14,7 +14,8 @@ Welcome to my GitHub! I’m Aiman Akim, passionate about UI/UX design, data anal
 - Comprehensive data analytics solutions
 
 💻 Let’s Build Together:
-I’m eager to collaborate on:
+
+  I’m eager to collaborate on:
 - Database management systems that power robust applications.
 - Smart web and mobile apps fueled by data intelligence.
 - End-to-end data analytics solutions with actionable insights.
