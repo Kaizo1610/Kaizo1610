@@ -1,5 +1,5 @@
 ## Hi there👋
-Welcome to my GitHub! I’m Aiman Akim, passionate about UI/UX design, data analytics, and web development.
+Welcome to my GitHub! I’m Aiman Akim, passionate about programming, UI/UX design, data analytics, and mobile/web development.
 
 👀 I love creating efficient systems that transform data into actionable insights and building seamless, user-friendly web experiences.
 
