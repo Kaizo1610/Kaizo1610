@@ -5,6 +5,10 @@
 
 - 👀 I love creating efficient systems that transform data into actionable insights and building seamless, user-friendly web experiences.
 
+- 💻 Enjoy turning innovative ideas into functional and dynamic web and mobile applications.
+
+- 📱 Driven to create cutting-edge mobile solutions that simplify everyday tasks and connect communities.
+
 - 📫 How to reach me **mohamadaiman896@gmail.com**
 
 <h3 align="left">Let's Connect via linkedin:</h3>
@@ -53,9 +57,6 @@
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
   </a> 
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> 
-  </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> 
   </a>
