@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aiman Akim</h1>
-<h5 align="center">An enthusiastic developer, data analytics aficionado, UI/UX design enthusiast and dedicated learner hailing from Johor, Malaysia.</h5>
+<h4 align="center">An enthusiastic developer, data analytics aficionado, UI/UX design enthusiast and dedicated learner hailing from Johor, Malaysia.</h4>
 
 - 🔬 I’m currently taking Bachelor of Information Technology in [International Islamic University Malaysia](https://www.iium.edu.my/)
 
-👀 I love creating efficient systems that transform data into actionable insights and building seamless, user-friendly web experiences.
+- 👀 I love creating efficient systems that transform data into actionable insights and building seamless, user-friendly web experiences.
 
 - 📫 How to reach me **mohamadaiman896@gmail.com**
 
@@ -54,8 +54,8 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
   </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-ar21.svg" alt="Tableau" width="80" height="40"/> 
-  </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tableau/tableau-original.svg" alt="Tableau" width="40" height="40"/> 
+  </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> 
   </a>
