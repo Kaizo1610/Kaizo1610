@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aiman Akim</h1>
-<h3 align="center">An enthusiastic developer, data analytics aficionado, UI/UX design enthusiast and dedicated learner hailing from Johor, Malaysia.</h3>
+<h5 align="center">An enthusiastic developer, data analytics aficionado, UI/UX design enthusiast and dedicated learner hailing from Johor, Malaysia.</h5>
 
 - 🔬 I’m currently taking Bachelor of Information Technology in [International Islamic University Malaysia](https://www.iium.edu.my/)
 
@@ -42,7 +42,7 @@
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
   </a> 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" alt="laravel" width="80" height="40"/> 
   </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
@@ -54,13 +54,10 @@
     <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="Power BI" width="40" height="40"/> 
   </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-icon.svg" alt="Tableau" width="40" height="40"/> 
+    <img src="https://www.vectorlogo.zone/logos/tableau/tableau-ar21.svg" alt="Tableau" width="80" height="40"/> 
   </a> 
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="R" width="40" height="40"/> 
   </a>
 </p>
-
-
-
 
