@@ -16,4 +16,10 @@ Welcome to my GitHub! I’m Aiman Akim, passionate about programming, UI/UX desi
 
 📫 Let’s connect! Find me on LinkedIn: Aiman Akim
 
+Connect with me:
+www.linkedin.com/in/Aiman-Akim
+
+Languages and Tools:
+css3 express figma html5 java javascript mongodb mysql nextjs nodejs postgresql react sqlite tailwind typescript
+
 
